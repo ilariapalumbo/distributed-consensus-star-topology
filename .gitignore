@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Results (large or temporary)
+simulation_results/
+*.csv
+*.log
+
+# Editor / IDE files
+.vscode/
+.idea/
