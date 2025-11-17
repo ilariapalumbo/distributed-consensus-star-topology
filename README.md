@@ -4,8 +4,7 @@ This repository contains Python code for simulating and evaluating a consensus p
 
 The simulation models failures, delays, and temporary unavailability of the servers in order to analyse how the protocol behaves under different reliability conditions and whether it can correctly restore the latest version of the file.
 
-The implementation is organised as a modular framework: the logic of each component (client, servers, and consensus mechanism) is encapsulated in separate modules.  
-This structure makes it easy to modify, extend, or experiment with the behaviour of individual agents and with different consensus strategies.
+The implementation is organised as a modular framework: the logic of each component (client, servers, and consensus mechanism) is encapsulated in separate modules. This structure makes it easy to modify, extend, or experiment with the behaviour of individual agents and with different consensus strategies.
 
 
 ## Repository structure
